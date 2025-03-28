@@ -1,4 +1,4 @@
-<h3 align="left">Solid logic base, data structures and digital electronics, I develop solutions that unite software and hardware. I am interested in embedded systems, automation and accessibility, always seeking clarity, efficiency and social impact.</h3>
+<h3 align="left">Com base sólida em lógica, estruturas de dados e eletrônica digital, desenvolvo soluções que unem software e hardware. Tenho interesse por sistemas embarcados, automação e acessibilidade, sempre buscando clareza, eficiência e impacto social..</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">🚀 Welcome! Feel free to explore my repositories and follow my creations.</p>
+<p align="left">🚀 Seja bem-vindo! Sinta-se à vontade para explorar meus repositórios e acompanhar minhas criações..</p>
 
 ###
 
