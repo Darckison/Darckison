@@ -1,3 +1,7 @@
+# 👋 Olá! Eu sou Darckison Trajano
+
+### Desenvolvedor de Software • Sistemas Embarcados • Automação
+
 <h3 align="left">Sou estudante de Ciência da Computação e apaixonado por tecnologia. Tenho interesse em desenvolvimento de software, sistemas embarcados, automação e acessibilidade. Busco criar soluções eficientes, bem estruturadas e com impacto positivo na vida das pessoas...</h3>
 
 ###
