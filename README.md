@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" alt="Telegram" />
   </a>
 
-  <a href="5595991593890" target="_blank">
+  <a href="[5595991593890](https://wa.me/5595991593890)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
   </a>
 
