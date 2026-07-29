@@ -1,4 +1,4 @@
-<h3 align="left">Com base sólida em lógica, estruturas de dados e eletrônica digital, desenvolvo soluções que unem software e hardware. Tenho interesse por sistemas embarcados, automação e acessibilidade, sempre buscando clareza, eficiência e impacto social..</h3>
+<h3 align="left">Sou estudante de Ciência da Computação e apaixonado por tecnologia. Tenho interesse em desenvolvimento de software, sistemas embarcados, automação e acessibilidade. Busco criar soluções eficientes, bem estruturadas e com impacto positivo na vida das pessoas...</h3>
 
 ###
 
